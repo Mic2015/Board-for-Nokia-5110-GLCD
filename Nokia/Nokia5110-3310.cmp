@@ -1,0 +1,83 @@
+Cmp-Mod V01 Created by PcbNew   date = 14/09/2018 10:40:49
+
+BeginCmp
+TimeStamp = 5BA85534
+Path = 
+Reference = U1;
+ValeurCmp = Nokia_5110_LCD;
+IdModule  = Nokiatest:Nokia_5110-3310_LCD-Board;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA7ABE9
+Path = /5B9A175B
+Reference = U1;
+ValeurCmp = Nokia_5110_LCD;
+IdModule  = Nokia_5110-3310_LCD:Nokia_5110-3310_LCD-F.Paste-B.Paste;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA7AC9B
+Path = /5B9A1762
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA857DB
+Path = /5B9A1769
+Reference = D1;
+ValeurCmp = LEDw;
+IdModule  = LED_SMD:LED_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA85A09
+Path = /5B9A1770
+Reference = D2;
+ValeurCmp = LEDw;
+IdModule  = LED_SMD:LED_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA7AD03
+Path = /5B9A1777
+Reference = D3;
+ValeurCmp = LEDw;
+IdModule  = LED_SMD:LED_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA856DD
+Path = /5B9A177E
+Reference = D4;
+ValeurCmp = LEDw;
+IdModule  = LED_SMD:LED_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA7AD6D
+Path = /5B9A17A2
+Reference = R1;
+ValeurCmp = 330;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA7AF75
+Path = /5B9A17AD
+Reference = J1;
+ValeurCmp = Conn_01x08_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA7AB2C
+Path = /5B9A1785
+Reference = J2;
+ValeurCmp = Conn_01x08_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical;
+EndCmp
+
+EndListe
